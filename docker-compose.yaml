@@ -2,6 +2,7 @@ services:
 
   sample:
     container_name: portfolio
+    image: portfolio-app
     build:
       context: .
       dockerfile: Dockerfile
