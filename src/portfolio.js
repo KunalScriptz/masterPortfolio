@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "I build impactful end-to-end solutions, specializing in sustainable social and technical systems and Generative AI. Expertise in RAG, LLM frameworks, and LLMOps from development to deployment.",
   resumeLink:
-    "https://drive.google.com/file/d/16BY6ivISoC-jFRiYlg_5uw7IABUiAKLR/view?usp=sharing",
+    "https://drive.google.com/file/d/1TP2X0EdEHfzcDvnGWsgMa_Je-_fwmu0L/view?usp=sharing",
   portfolio_repository: "https://github.com/KunalScriptz",
   githubProfile: "https://github.com/KunalScriptz",
 };
@@ -443,7 +443,7 @@ const certifications = {
       subtitle: "- Nvidia",
       logo_path: "NVLogo_2D_thmb.png",
       certificate_link:
-        "https://learn.nvidia.com/certificates?id=wm4TO4tQQwKiToZ8El4DoA",
+        "https://drive.google.com/file/d/1wOTz1LoZr4WGyigMSoC6iW3A-opn8sTL/view?usp=sharing",
       alt_name: "Nvidia Academy",
       color_code: "#FFFFFF",
     },
