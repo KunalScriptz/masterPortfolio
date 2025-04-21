@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Kunal's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://kunalx-is.a.dev/",
   },
 };
 
@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Kunal K",
   logo_name: "Kunal",
-  nickname: "thecodingwizardx",
+  nickname: "KunalScriptz",
   subTitle:
     "I build impactful end-to-end solutions, specializing in sustainable social and technical systems and Generative AI. Expertise in RAG, LLM frameworks, and LLMOps from development to deployment.",
   resumeLink:
