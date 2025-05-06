@@ -78,7 +78,7 @@ const socialMediaLinks = [
   // },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/the_hulk_buster98/",
+    link: "https://www.instagram.com/Kunal_2001x/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
